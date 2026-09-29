@@ -1,0 +1,1 @@
+# AI-based-Forest-fire-prediction-and-early-warning-system
