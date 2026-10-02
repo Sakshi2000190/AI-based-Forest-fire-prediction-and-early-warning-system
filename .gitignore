@@ -1,0 +1,24 @@
+# GIS / large data files
+gis_data/
+*.tif
+*.tiff
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
