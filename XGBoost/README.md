@@ -75,26 +75,25 @@ The tuned XGBoost model achieved:
 [[4781, 1148],
  [ 675, 5483]]
 
-Model Evaluation
+## Model Evaluation
 
 The model is evaluated using:
 
-Accuracy
-ROC-AUC Score
-Classification Report
-Confusion Matrix
-ROC Curve
-Precision-Recall Curve
-Feature Importance
-Threshold Analysis
-Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn
-XGBoost
-Matplotlib
-Seaborn
-Model Output
+- Accuracy
+- ROC-AUC Score
+- Classification Report
+- Confusion Matrix
+- ROC Curve
+- Precision-Recall Curve
+- Feature Importance
+- Threshold Analysis
 
-The trained XGBoost model is saved in JSON format for future use.
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
