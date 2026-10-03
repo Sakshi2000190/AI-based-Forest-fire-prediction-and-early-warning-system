@@ -71,13 +71,7 @@ The tuned XGBoost model achieved:
 
 ### Confusion Matrix
 
-```text
-[[4781, 1148],
- [ 675, 5483]]
-
-
-
-
+`[[4781, 1148], [675, 5483]]`
 
 ## Model Evaluation
 
@@ -101,3 +95,7 @@ The model is evaluated using:
 - XGBoost
 - Matplotlib
 - Seaborn
+
+## Model Output
+
+The trained XGBoost model is saved in JSON format for future use.
