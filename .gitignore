@@ -2,7 +2,9 @@
 gis_data/
 *.tif
 *.tiff
-*.csv
+*uttarakhand_timeseries_features_2km.csv
+*uttarakhand_timeseries_features_2km_clean(updated).csv
+*uttarakhand_grid_features.csv
 *.zip
 
 # Python
