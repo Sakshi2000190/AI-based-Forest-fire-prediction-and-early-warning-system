@@ -1,0 +1,17 @@
+feature,importance
+elevation,0.27009064
+surface_pressure,0.25695193
+temperature_2m_max,0.08707537
+NDVI,0.068631835
+dewpoint_temperature_2m,0.049178187
+slope,0.042710263
+temperature_2m,0.028976653
+dewpoint_depression,0.028223563
+NDMI,0.024622967
+v_component_of_wind_10m,0.024238
+total_precipitation_sum,0.023982095
+volumetric_soil_water_layer_1,0.023942078
+u_component_of_wind_10m,0.023501242
+wind_speed,0.021569824
+aspect_cos,0.015248805
+aspect_sin,0.011056624

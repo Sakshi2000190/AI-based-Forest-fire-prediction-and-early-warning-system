@@ -1,0 +1,5 @@
+,accuracy,precision,recall,f1,roc_auc,pr_auc
+random_split,0.8491,0.8269,0.8901,0.8573,0.9293,0.9242
+spatial_split,0.7988,0.768,0.8807,0.8205,0.8836,0.8791
+spatial_5fold_cv_mean,0.8247,0.7893,0.8904,0.8365,0.902,0.8869
+spatial_5fold_cv_std,0.0296,0.0443,0.0291,0.035,0.018,0.0276
